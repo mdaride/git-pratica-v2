@@ -1,1 +1,1 @@
-O git é muito fácil de aprender!
+O git é muito fácil de aprender! Será mesmo?
